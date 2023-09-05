@@ -1,0 +1,5 @@
+joana;azq12122;jornalista
+jorge;mtu67453;administrador
+manuel;zpt567;leitor
+teste1;teste2;administrador
+paulo;paulo;jornalista
